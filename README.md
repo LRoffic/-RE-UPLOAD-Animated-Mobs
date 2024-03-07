@@ -1,7 +1,7 @@
 <h2>
     <strong>
         <span>
-            [RE-UPLOAD] Animated Mobs .15.2, 1.15, 1.14 - by 
+            [RE-UPLOAD] Animated Mobs 1.16.3 - by 
             <a href="https://www.youtube.com/@leckaschmecka1279" target="blank_">
                 <u>leckaschmecka</u>
             </a>
@@ -9,11 +9,31 @@
     </strong>
 </h2>
 <p>
+    <img src="https://imgur.com/8UO2VWq.jpg" />
+</p>
+<p>
+    The <strong>Animated Mobs Resource Pack update for 1.16.3</strong> is an addon to the Minecraft Default Textures and extends mobs with animated facial expressions. The Texture Pack has now been released to the latest version of the Nether Update and brings out new features to make the game world of Minecraft even more lively. It was mainly focused on the new mobs like Piglins, Hoglins or Striders, all of which can show a number of different emotions. Note that Animated Mobs Pack only works in combination with 
+    <a href="http://optifine.net/" target="_blank">
+        <strong>Optifine 1.16.3</strong>
+    </a>.
+</p>
+<p>
     <img src="https://imgur.com/oHSQ5Rp.jpg">
 </p>
 <p>
-    The look of zombies, creepers, and other mobs can be boring over time. 
-    <strong>Animated Mobs Resource Pack</strong> provides many facial expressions to some Minecraft mobs. This Texture Pack makes the mobs much more realistic and gives them a touch of liveliness. This Resource Pack is compatible with Minecraft versions 1.14.X and 1.15.X.(Just few mobs will not have textures animated for higher versions but keep vanilla texture). It should be noted that this Texture Pack only works with <a href="https://optifine.net/" target="_blank"><u>Optifine</u></a>. As this Texture Pack is no more updated by the author and i'm not designer, i just can't update it but i want to re-upload it 'cause is one of my favorite et i want to share it for everybody. If you like it and want to contribute, feel free to send me a pull request.
+
+
+</p>
+    <img src="https://i.imgur.com/utolxZK.jpg">
+</p>
+<h2>
+    <strong>New facial expressions in the Nether</strong>
+</h2>
+<p>
+    With the new version of Animated Mobs, the Nether is more lifelike than ever thanks to animated textures. The new creatures like Hoglins or Piglins can move their eyes and blink. With large lava lakes, you quickly come across striders, who can open their mouths and also wink with their eyes. When a Strider has no more lava under his feet, he not only starts to tremble, but his mouth also starts to rattle clearly!
+</p>
+<p>
+    <img src="https://web.archive.org/web/20220603193339im_/https://resource-pack.com/wp-content/uploads/2020/09/animated-mobs-addon-reddit-1.16.3-1024x542.jpg" />
 </p>
 <p>
     <img src="https://imgur.com/YPxUIPX.jpg" />
@@ -22,23 +42,22 @@
     <strong>How to install Animated Mobs Resource Pack?</strong>
 </h2>
 <p>
-    For the case that you don‘t know how to install&nbsp;<strong>1.15.2 / 1.15 / 1.14</strong>&nbsp;<strong>Animated Mobs Resource Pack,</strong> we’ve listed you a short installation guide down below. The Installation Guide is for Minecraft 1.15 and 1.14. Be sure that you also have <a href="http://optifine.net/" target="_blank">Optifine</a> installed.
+    If you are not sure how to install this Resource Pack exactly, we have a detailed installation tutorial for you  
 </p>
 <ol>
     <li>
-        Download <strong>Animated Mobs Texture Pack for Minecraft 1.15 / 1.14</strong>
-    </li>
-    <li>Launch Minecraft and click on “options” then.</li>
-    <li>
-        Navigate from “options” over “Resource Packs” and click on “Open resource packs folder”
+        Download <strong>Optifine 1.16.3.</strong> This modification is required so that Minecraft can display the animations correctly. This is not possible in the normal vanilla version of Minecraft
     </li>
     <li>
-        Paste the Pack you just downloaded into this folder
+        When you’ve installed Optifine, start Minecraft with Optifine. From the main menu, first, click on “<strong>Options</strong>” and navigate from “<strong>Resource Packs</strong>” to “<strong>Pack Folder</strong>”.
     </li>
     <li>
-        Restart the Game! The Pack will appear in your Resource Packs list.
+        A folder will appear where you paste the Animated Mobs Pack. Then close the folder and the texture pack is now in Minecraft in the Resource Pack list.
     </li>
 </ol>
+<a href="https://www.youtube.com/watch?v=c_NROz-xkhI" target="_blank" />
+    <img src="https://imgur.com/eZ7NWj3.jpg" />
+</a>
 <a href="https://www.youtube.com/watch?v=1nt-2_evFj4" target="blank">
     <img src="https://imgur.com/hUIeBaw.jpg">
 </a>
